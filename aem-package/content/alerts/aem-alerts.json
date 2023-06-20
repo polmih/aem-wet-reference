@@ -40,8 +40,8 @@
     "foaf:homepage": "https://github.com/ServiceCanada",
     "@type": ["earl:Assertor", "foaf:Organization"],
     "earl:mainAssertor": {
-      "foaf:name": "Full name of the accessor (Github: @GithubHandle)",
-      "foaf:homepage": "https://github.com/GithubHandle",
+      "foaf:name": "Yves Veronneau (Github: @Yves-Denis)",
+      "foaf:homepage": "https://github.com/Yves-Denis",
       "@type": ["earl:Assertor", "foaf:Person"]
     }
   },
@@ -93,7 +93,7 @@
     {
       "earl:test": "WCAG21:captions-live",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -101,7 +101,7 @@
     {
       "earl:test": "WCAG21:audio-description-prerecorded",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -125,7 +125,7 @@
     {
       "earl:test": "WCAG21:sensory-characteristics",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -141,7 +141,7 @@
     {
       "earl:test": "WCAG21:identify-input-purpose",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -157,7 +157,7 @@
     {
       "earl:test": "WCAG21:audio-control",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -237,7 +237,7 @@
     {
       "earl:test": "WCAG21:character-key-shortcuts",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -245,7 +245,7 @@
     {
       "earl:test": "WCAG21:timing-adjustable",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -253,7 +253,7 @@
     {
       "earl:test": "WCAG21:pause-stop-hide",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -261,7 +261,7 @@
     {
       "earl:test": "WCAG21:three-flashes-or-below-threshold",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -325,7 +325,7 @@
     {
       "earl:test": "WCAG21:pointer-gestures",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -333,7 +333,7 @@
     {
       "earl:test": "WCAG21:pointer-cancellation",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -349,7 +349,7 @@
     {
       "earl:test": "WCAG21:motion-actuation",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -381,7 +381,7 @@
     {
       "earl:test": "WCAG21:on-input",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -405,7 +405,7 @@
     {
       "earl:test": "WCAG21:error-identification",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -413,7 +413,7 @@
     {
       "earl:test": "WCAG21:labels-or-instructions",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -421,7 +421,7 @@
     {
       "earl:test": "WCAG21:error-suggestion",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -429,7 +429,7 @@
     {
       "earl:test": "WCAG21:error-prevention-legal-financial-data)",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -437,7 +437,7 @@
     {
       "earl:test": "WCAG21:parsing",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -453,7 +453,7 @@
     {
       "earl:test": "WCAG21:status-messages",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
