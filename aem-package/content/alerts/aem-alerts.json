@@ -40,7 +40,7 @@
     }
   },
 
-  "dct:date": 20230620,
+  "dct:date": null,
   "dct:description": "Analyzing and exploring the subject and produce a pre-evaluation of all WCAG 2.1 SC at level AA.",
   "acr:involvesExpertise": [
     "wbv:acr/topics#CSS",
