@@ -14,7 +14,7 @@
         "dct:description": "Evaluation of the Alerts Component and its multiple iterations, i.e. Danger, Warning, Success & Info with or without link text, and without Headings. (earl:pointer)",
         "earl:pointer": {
           "@type": "oa:CssSelector",
-          "@value": ".alert"
+          "@value": "alert"
         }
       }
     ],
@@ -22,10 +22,10 @@
       "earl:TestSubject",
       "schema:WebPage"
     ],
-    "dct:description": "The Alerts Component, only, is being assessed.",
+    "dct:description": "The Alerts Component, only, is being assessed. (earl:pointer)",
     "earl:pointer": {
       "@type": "oa:CssSelector",
-      "@value": "title, meta, #wb-bc, main, mwsalerts component"
+      "@value": "title, meta, #wb-bc, main, alert"
     }
   },
 
@@ -43,8 +43,7 @@
   "dct:date": null,
   "dct:description": "Analyzing and exploring the subject and produce a pre-evaluation of all WCAG 2.1 SC at level AA.",
   "acr:involvesExpertise": [
-    "wbv:acr/topics#CSS",
-    "CSS"
+    "wbv:acr/topics#CSS"
   ],
 
   "dct:source": "act:rulesets/wcag2x/wcag21_all_levelAA.json",
