@@ -25,7 +25,7 @@
     "dct:description": "The Portfolio Ministers' Component, only, is being assessed. (earl:pointer)",
     "earl:pointer": {
       "@type": "oa:CssSelector",
-      "@value": "title, meta, #wb-bc, main, alert"
+      "@value": "title, meta, #wb-bc, main, min-port"
     }
   },
 
@@ -55,7 +55,7 @@
       "earl:test": "WCAG21:non-text-content",
       "earl:outcome": "earl:untested",
       "earl:subject": "_:subject",
-      "dct:description": "Icon in left section; CSS Knowledge is an asset for the assessor.",
+      "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
     },
