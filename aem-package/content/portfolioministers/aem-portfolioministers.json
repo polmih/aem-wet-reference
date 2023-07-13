@@ -14,7 +14,7 @@
         "dct:description": "Evaluation of the Portfolio Ministers' Component.",
         "earl:pointer": {
           "@type": "oa:CssSelector",
-          "@value": "alert"
+          "@value": "portfolio_ministers"
         }
       }
     ],
