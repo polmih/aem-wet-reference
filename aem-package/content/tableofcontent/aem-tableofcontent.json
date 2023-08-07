@@ -86,7 +86,7 @@
     {
       "earl:test": "WCAG21:captions-live",
       "earl:subject": "_:subject",
-      "earl:outcome": "eearl:inapplicable",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
