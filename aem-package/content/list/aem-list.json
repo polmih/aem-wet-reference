@@ -134,7 +134,7 @@
     {
       "earl:test": "WCAG21:identify-input-purpose",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -142,7 +142,7 @@
     {
       "earl:test": "WCAG21:use-of-color",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -150,7 +150,7 @@
     {
       "earl:test": "WCAG21:audio-control",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -174,7 +174,7 @@
     {
       "earl:test": "WCAG21:image-of-text",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -182,7 +182,7 @@
     {
       "earl:test": "WCAG21:reflow",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -206,7 +206,7 @@
     {
       "earl:test": "WCAG21:content-on-hover-or-focus",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -214,7 +214,7 @@
     {
       "earl:test": "WCAG21:keyboard",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -222,7 +222,7 @@
     {
       "earl:test": "WCAG21:no-keyboard-trap",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -230,7 +230,7 @@
     {
       "earl:test": "WCAG21:character-key-shortcuts",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -238,7 +238,7 @@
     {
       "earl:test": "WCAG21:timing-adjustable",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -246,7 +246,7 @@
     {
       "earl:test": "WCAG21:pause-stop-hide",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -254,7 +254,7 @@
     {
       "earl:test": "WCAG21:three-flashes-or-below-threshold",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -262,7 +262,7 @@
     {
       "earl:test": "WCAG21:bypass-blocks",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -270,7 +270,7 @@
     {
       "earl:test": "WCAG21:page-titled",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -278,7 +278,7 @@
     {
       "earl:test": "WCAG21:focus-order",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -286,7 +286,7 @@
     {
       "earl:test": "WCAG21:link-purpose-in-context",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -294,7 +294,7 @@
     {
       "earl:test": "WCAG21:multiple-ways",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -302,7 +302,7 @@
     {
       "earl:test": "WCAG21:headings-and-labels",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -310,7 +310,7 @@
     {
       "earl:test": "WCAG21:focus-visible",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -318,7 +318,7 @@
     {
       "earl:test": "WCAG21:pointer-gestures",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -326,7 +326,7 @@
     {
       "earl:test": "WCAG21:pointer-cancellation",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -334,7 +334,7 @@
     {
       "earl:test": "WCAG21:label-in-name",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -342,7 +342,7 @@
     {
       "earl:test": "WCAG21:motion-actuation",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -350,7 +350,7 @@
     {
       "earl:test": "WCAG21:language-of-page",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -358,7 +358,7 @@
     {
       "earl:test": "WCAG21:language-of-parts",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -366,7 +366,7 @@
     {
       "earl:test": "WCAG21:on-focus",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -374,7 +374,7 @@
     {
       "earl:test": "WCAG21:on-input",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -382,7 +382,7 @@
     {
       "earl:test": "WCAG21:consistent-navigation",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -390,7 +390,7 @@
     {
       "earl:test": "WCAG21:consistent-identification",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -398,7 +398,7 @@
     {
       "earl:test": "WCAG21:error-identification",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -406,7 +406,7 @@
     {
       "earl:test": "WCAG21:labels-or-instructions",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -414,7 +414,7 @@
     {
       "earl:test": "WCAG21:error-suggestion",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -422,7 +422,7 @@
     {
       "earl:test": "WCAG21:error-prevention-legal-financial-data)",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -430,7 +430,7 @@
     {
       "earl:test": "WCAG21:parsing",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -438,7 +438,7 @@
     {
       "earl:test": "WCAG21:name-role-value",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
@@ -446,7 +446,7 @@
     {
       "earl:test": "WCAG21:status-messages",
       "earl:subject": "_:subject",
-      "earl:outcome": "earl:untested",
+      "earl:outcome": "earl:inapplicable",
       "dct:description": "",
       "earl:mode": "earl:unknownMode",
       "@type": ["earl:TestResult", "earl:Assertion"]
